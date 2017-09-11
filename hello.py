@@ -6,6 +6,10 @@
 
 def greeting(msg):
     print(msg)
+    
+def salutation(msg):
+    print(msg)
 
 if __name__ == "__main__":
     greeting("hello")
+    salutation("goodbye")
