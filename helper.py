@@ -7,3 +7,4 @@
 from hello import greeting
 
 greeting("hello")
+greeting("hola")
